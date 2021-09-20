@@ -31,7 +31,7 @@ y salir con amigos.
 Rol en el equipo: Product Owner
 
 #### Diego Rodriguez
-
+Filosofo,  Convencido de que  La automatizacion Cambiara al mundo , Apasionado y admirado por tecnologias como el blockchaing
 Rol en el equipo: Administrador de BD
 
 #### Wilmar Mora
